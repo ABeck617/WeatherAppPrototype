@@ -1,0 +1,16 @@
+.container {
+    width: 500px;
+    height: 300px;
+    margin: 25vh auto;
+    border-radius: 25px;
+    box-shadow: 2px 4px 10px 4px black;
+}
+
+.header {
+    text-align: center;
+    background-color: #FF9800;
+    position: relative;
+    height: 20%;
+    border-right-width: 25px;
+    border-bottom-width: 25px;
+}
